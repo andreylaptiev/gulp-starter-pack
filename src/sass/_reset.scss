@@ -36,9 +36,14 @@ ul[class] {
   list-style: none;
 }
 
+ol,
 ul,
 li {
   line-height: 90%;
+}
+
+img {
+  display: block;
 }
 
 input,
